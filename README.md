@@ -18,10 +18,11 @@
 
 | **Subvisor:** AI powered image annotation tool |
 |:--:|
-| <img src="images/subvisor.gif"  style="border:1px solid blue;"/> |
+| <a href="https://github.com/Paulo-Rozatto/subvisor"><img src="images/subvisor.gif"/></a> |
 
-| Project 1| Project 2| Project 3|
+| Calclogic | Perceptron Viewer | Tomasulo MIPS |
 |:--:|:--:|:--:|
-| <img src="images/subvisor.gif"/> | <img src="images/subvisor.gif"/> | <img src="images/subvisor.gif"/> |
+| <a href="https://github.com/Paulo-Rozatto/calclogic"><img src="images/calclogic.gif"/></a> | <a href="https://github.com/Paulo-Rozatto/perceptron-viewer"><img src="images/perceptron.gif"/></a> | <a href="https://github.com/Paulo-Rozatto/ufjf-tomasulo-mips"><img src="images/tomasulo.gif"/></a> 
+
 
 </div>
